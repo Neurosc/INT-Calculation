@@ -89,4 +89,5 @@ for (subject_id, scans) in meditators_subjects
 end
 
 println("Saved $(length(controls_subjects)) controls subjects")
+
 println("Saved $(length(meditators_subjects)) meditators subjects")
