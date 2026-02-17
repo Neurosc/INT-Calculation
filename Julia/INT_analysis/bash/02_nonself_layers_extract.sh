@@ -1,7 +1,7 @@
 #!/bin/bash
 # Create master Glasser atlas using 3dUndump
 
-template_1mm=/home/jkokino/meditation_project/templates/MNI_files/mni_icbm152_t1_tal_nlin_asym_09c.nii
+template_1mm=/home/jkokino/meditation_project/templates/MNI_files/mni_icbm152_nlin_asym_09c.nii
 template_3mm=/home/jkokino/meditation_project/templates/MNI_files/mni_icbm152_3mm.nii.gz
 coords_file=/home/jkokino/meditation_project/templates/glasser_files/glasser_coordinates_nonself.txt
 output_dir=/home/jkokino/meditation_project/templates/glasser/files
